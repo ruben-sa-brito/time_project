@@ -1,2 +1,2 @@
 # time_project
-pequeno projeto de estudo recomendado por um amigo
+pequeno projeto para estudo recomendado por um amigo
